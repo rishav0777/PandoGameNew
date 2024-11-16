@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 172c5df30bbeb714c9d7904ea125f558
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Codec Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 93ab5d3b064ecc9488757a2f296510f0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

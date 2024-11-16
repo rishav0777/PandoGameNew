@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 12305bcd0c3e7d847a5b8f833a607bd2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - ITC Avant Garde Gothic Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1124bf80e4b1e1147b953ff7c2baab47, type: 3}
+  - {fileID: 12800000, guid: 8102ae0fa13bd6d4fb4cc82f6738835e, type: 3}
+  - {fileID: 12800000, guid: 215f086ba8fb609458be8e56339617b1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
